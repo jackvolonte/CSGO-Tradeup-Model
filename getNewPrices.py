@@ -1,6 +1,5 @@
 import hashlib
 import urllib
-
 import pandas as pd
 import numpy as np
 import time
@@ -14,7 +13,7 @@ import steammarket as sm
 from steammarket import get_csgo_item
 
 AppID = "730"
-YourSecretAPIKey = "VZ2LZoHa215X5l_0XYs8IeTdAkY"
+YourSecretAPIKey = ":)"
 
 statTrak = 'StatTrak%E2%84%A2%20'
 
