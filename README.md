@@ -1,6 +1,7 @@
 # CSGO-Tradeup-Model
-Takes a list of CSGO items, gets live prices and attempts to find +EV profit tradeups
 
-Runnable in any python IDE.
+Out of date as of 1/9/24.
+Use https://steamapis.com/ for API keys.
 
-Run from main.py, updates to live prices are working as my API key is contained in this code.
+- Takes a list of CSGO items, gets live prices and attempts to find +EV profit tradeups
+- Run from main
